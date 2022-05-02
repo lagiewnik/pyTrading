@@ -1,1 +1,1 @@
-Project do stworzenia bibliotek do wstecznego testowania i handlu w czasie rzeczywistym z Binance dla Ichimoku i MMD.
+Project to create libraries for back-testing and real-time trading with Binance for Ichimoku and MMD.
